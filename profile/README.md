@@ -1,8 +1,8 @@
 # Synthesis Financial Research
 
-![Synthesis Research Financial](https://avatars.githubusercontent.com/u/147555078?s=200&v=4)
+![Synthesis Financial Research](https://avatars.githubusercontent.com/u/147555078?s=200&v=4)
 
-At Synthesis Research Financial, we are dedicated to unlocking the power of data-driven insights in the world of finance. With a passion for precision and a commitment to excellence, we specialize in quantitative and qualitative research that empowers our clients to make informed financial decisions in a dynamic and ever-changing market landscape.
+At Synthesis Financial Research, we are dedicated to unlocking the power of data-driven insights in the world of finance. With a passion for precision and a commitment to excellence, we specialize in quantitative and qualitative research that empowers our clients to make informed financial decisions in a dynamic and ever-changing market landscape.
 
 ## Our Expertise
 
