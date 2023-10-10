@@ -1,4 +1,4 @@
-# Synthesis Research Financial
+# Synthesis Financial Research
 
 ![Synthesis Research Financial](https://avatars.githubusercontent.com/u/147555078?s=200&v=4)
 
