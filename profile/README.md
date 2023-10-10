@@ -1,6 +1,6 @@
 # Synthesis Research Financial
 
-![Synthesis Research Financial](https://github.com/yourusername/yourrepository/raw/main/imagefile.png)
+![Synthesis Research Financial](https://github.com/yourusername/synthesisresearch/raw/main/imagefile.png)
 
 At Synthesis Research Financial, we are dedicated to unlocking the power of data-driven insights in the world of finance. With a passion for precision and a commitment to excellence, we specialize in quantitative and qualitative research that empowers our clients to make informed financial decisions in a dynamic and ever-changing market landscape.
 
